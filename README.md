@@ -5,7 +5,7 @@ commands used
 
 
 
-bash```
+```
  1141  cd task-manager
  1142  git status
  1143  git log --oneline --graph --all
